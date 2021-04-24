@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    padding: 15px;
+    padding: 20px;
 }
 
 .top-box{
@@ -11,22 +11,29 @@ body{
 }
 .purple{
     background: rgb(174, 54, 211);
-    height: 200px;
-    width: 75px;
+    height: 155px;
+    width: 55px;
     display: inline-block;
 }
 .green{
     background: green;
-    height: 350px;
-    width: 550px;
+    height: 245px;
+    width: 400px;
     margin: 0 75px;
     display: inline-block;
 }
 .blue-circle{
     background-color: lightskyblue;
-    height: 200px;
-    width: 200px;
-    margin: 0 0px;
+    height: 245px;
+    width: 245px;
     border-radius: 50%;
     display: inline-block;
+}
+
+.middle-box{
+    border: 5px dotted black;
+    width: 100%;
+    padding: 50px;
+    margin-top: 25px;
+    box-sizing: border-box;
 }
