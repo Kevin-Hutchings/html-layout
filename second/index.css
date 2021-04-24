@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 15px;
+}
+
+.top-box{
+    border: 5px solid black;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.purple{
+    background: rgb(174, 54, 211);
+    height: 200px;
+    width: 75px;
+    display: inline-block;
+}
+.green{
+    background: green;
+    height: 350px;
+    width: 550px;
+    margin: 0 75px;
+    display: inline-block;
+}
+.blue-circle{
+    background-color: lightskyblue;
+    height: 200px;
+    width: 200px;
+    margin: 0 0px;
+    border-radius: 50%;
+    display: inline-block;
+}
