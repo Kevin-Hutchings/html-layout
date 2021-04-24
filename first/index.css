@@ -5,7 +5,7 @@ h1{
     margin: 0px;
 }
 body{
-    background-color: grey;
+    background-color: rgb(175, 173, 173);
 }
 .white-box{
     background-color: white;
@@ -16,7 +16,7 @@ body{
     height: 875px;
 }
 footer{
-    background-color: black;
+    background-color: rgb(58, 58, 58);
     background-position:bottom;
     margin: 0px;
     margin-left: 150px;
