@@ -34,7 +34,7 @@ body{
     border: 5px dotted black;
     width: 100%;
     padding: 50px;
-    margin-top: 25px;
+    margin-top: 30px;
     box-sizing: border-box;
 }
 .yellow-shadow{
@@ -44,3 +44,19 @@ body{
     box-shadow: 10px 5px 5px black;
 }
 
+.bottom-box{
+    border: 1px solid lightgray;
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 50%;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 2px lightgray;
+    padding: 100px;
+}
+h1{
+    text-align: center;
+    color: blue;
+    letter-spacing: 15px;
+    width: 100%;
+
+}
